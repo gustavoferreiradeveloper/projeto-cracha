@@ -1,9 +1,8 @@
 const linksSocialMedia  = {
     github:"gustavoferreiradeveloper",
-    youtube: "maykbrito",
-    instagram: "gustavoferreira.dev",
-    facebook:"gustavotorettoreal",
-    twitter:"maykbrito"
+    linkedin: "in/gustavo-ferreira-dev",
+    facebook:"gustavoferreira.developer",
+    instagram: "gustavoferreira.dev"
 }
 
 function changeSocialMediaLinks(){
