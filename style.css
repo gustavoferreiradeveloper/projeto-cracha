@@ -136,11 +136,11 @@ ul {
   main {
     background: url(images/background-from-desktop.png) no-repeat center/cover;
     min-height: 100vh;
-    width: 90vw;
+    width: 100vw;
   }
 
   .avatar {
-    margin: 10.8rem auto 0;
+    margin: 10.2rem auto 0;
   }
 
   .avatar > img {
@@ -158,7 +158,7 @@ ul {
 
   p {
     margin-top: 1rem;
-    font-size: 0.8rem;
+    font-size: 1rem;
   }
 
   ul {
